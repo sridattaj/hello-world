@@ -6,3 +6,8 @@ Cherries
 Bananas
 Carrots
 Cereal
+Oatmeal
+Bread
+Milk
+Sugar
+Eggs
